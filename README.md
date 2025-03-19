@@ -54,8 +54,8 @@ plt.xlabel('Time [s]')
 plt.ylabel('Amplitude')
 plt.grid(True)
 plt.legend()
-plt.show()```
-
+plt.show()`
+```
 
 ## Output Waveform
 ![image](https://github.com/user-attachments/assets/466821ca-05e4-43f4-9346-21c7af61655f)
