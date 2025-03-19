@@ -58,7 +58,8 @@ plt.show()`
 ```
 
 ## Output Waveform
-![image](https://github.com/user-attachments/assets/466821ca-05e4-43f4-9346-21c7af61655f)
+![image](https://github.com/user-attachments/assets/0bdcdf6f-52a6-446b-acb4-73f2328fd8a0)
+
 
 ## Result
 The original continuous sine wave was successfully sampled at 100 Hz.
