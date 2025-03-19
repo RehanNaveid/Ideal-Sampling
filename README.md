@@ -54,13 +54,13 @@ plt.xlabel('Time [s]')
 plt.ylabel('Amplitude')
 plt.grid(True)
 plt.legend()
-plt.show()
+plt.show()```
 
 
-#Output Waveform
+## Output Waveform
 ![image](https://github.com/user-attachments/assets/466821ca-05e4-43f4-9346-21c7af61655f)
 
-#Result
+## Result
 The original continuous sine wave was successfully sampled at 100 Hz.
 The sampled signal was plotted using discrete red markers.
 The signal was reconstructed using resampling techniques, closely matching the original signal.
